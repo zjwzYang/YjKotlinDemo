@@ -1,2 +1,10 @@
-KotlinDemo
+KotlinDemo：
 ====
+1.RecyclerView使用
+---
+2.OkHttp使用
+----
+3.Retrofit使用
+---
+4.基本控件使用（TabLayout+ViewPager）
+----
